@@ -1,0 +1,33 @@
+{
+  "name": "datasets-unisex-first-names-en",
+  "version": "1.0.0",
+  "description": "A list of common gender neutral first names in English speaking countries.",
+  "main": "dataset.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojoaxel/datasets-unisex-first-names-en.git"
+  },
+  "keywords": [
+    "datasets",
+    "dataset",
+    "datasample",
+    "firstnames",
+    "unisex",
+    "human",
+    "people",
+    "person",
+    "given",
+    "personal",
+    "name",
+    "firstname",
+    "english",
+    "en"
+  ],
+  "author": "Alexander Wunschik <dev@wunschik.net>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/mojoaxel/datasets-unisex-first-names-en/issues"
+  },
+  "homepage": "https://github.com/mojoaxel/datasets-unisex-first-names-en#readme"
+}

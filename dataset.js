@@ -1,4 +1,4 @@
-[
+module.exports = [
 	"Aarya",
 	"Addison",
 	"Alby",
@@ -126,4 +126,4 @@
 	"Xoan",
 	"Yael",
 	"Zion",
-]
+];
