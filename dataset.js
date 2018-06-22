@@ -9,6 +9,7 @@ module.exports = [
 	"Alexis",
 	"Ali",
 	"Amari",
+	"Andrea",
 	"Andy",
 	"Angel",
 	"Archer",
