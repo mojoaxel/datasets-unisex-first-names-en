@@ -25,6 +25,10 @@
     "en"
   ],
   "author": "Alexander Wunschik <dev@wunschik.net>",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/mojoaxel"
+  },
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/mojoaxel/datasets-unisex-first-names-en/issues"
